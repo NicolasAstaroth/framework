@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color: wheat;
+}
+
+.c1 :hover
+{
+  color: aquamarine;
+  font-family: cursive;
+}
+#div1
+{
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.c1
+{
+  color: red
+}
+
+#hh {
+   color: cyan ; 
+   font-family: fantasy;
+
+}

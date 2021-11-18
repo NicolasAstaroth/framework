@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: wheat
+}
+
+.c1 :hover
+{
+  color: aquamarine;
+  font-family: cursive;
+}
+.c1
+{
+  color: red;
+}
+
+#division
+{
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.lista
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+#capa
+{
+    background-color: white;
+}
